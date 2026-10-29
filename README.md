@@ -24,7 +24,7 @@ About info-gen.in
 | **Sales ** | CSV / Tabular | Financial forecasting, regression models, SQL query testing |
 | **Order Logistics** | CSV / Tabular | Supply chain analytics, status tracking, PowerBI / Tableau dashboards |
 | **Green Marketing** | CSV / Tabular | Sustainability analytics, PowerBI / Tableau dashboards , classification models |
-
+and more. 
 ---
 
 ## 🚀 How to Use
