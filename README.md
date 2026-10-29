@@ -3,6 +3,7 @@
 About info-gen.in
 # 📊 Info-Gen Datasets — Synthetic Data Generator for ML & Testing, Free CSV Data for Data Analytics, ML & Testing
 [![Live Web Tool](https://img.shields.io/badge/Live_Tool-info--gen.in-blue?style=for-the-badge&logo=googlechrome)](https://info-gen.in)
+🚀 **Live Tool:** [https://info-gen.in](https://info-gen.in/?utm_source=github&utm_medium=readme&utm_campaign=showcase_repo)
 > A fast, lightweight web application designed to generate customizable synthetic datasets (Sales, Order Logistics, E-commerce) in CSV format for software testing, database benchmarking, and data science projects.
 
 🔗 **Access the Live Tool:** [https://info-gen.in](https://info-gen.in)
