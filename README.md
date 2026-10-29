@@ -1,3 +1,4 @@
+# 📊 Synthetic Dataset Generator (CSV Export)
 # info-gen
 About info-gen.in
 # 📊 Info-Gen Datasets — Synthetic Data Generator for ML & Testing, Free CSV Data for ML & Testing
@@ -23,7 +24,16 @@ About info-gen.in
 | :--- | :--- | :--- |
 | **Sales ** | CSV / Tabular | Financial forecasting, regression models, SQL query testing |
 | **Order Logistics** | CSV / Tabular | Supply chain analytics, status tracking, PowerBI / Tableau dashboards |
-| **Green Marketing** | CSV / Tabular | Sustainability analytics, PowerBI / Tableau dashboards , classification models |
+| **Green Marketing** | CSV / Tabular | Sustainability analytics, PowerBI / Tableau dashboards , classification models, SQL query testing, clustering |
+| *Finance** | CSV / Tabular | Finance analytics, PowerBI / Tableau dashboards, financial forecasting, regression models, SQL query testing|
+| **Alheimers disease** | CSV / Tabular | Health care analytics, PowerBI / Tableau dashboards , classification models |
+| **Employee Retention** | CSV / Tabular | HR analytics, PowerBI / Tableau dashboards , classification models |
+| **Semiconductor sales** | CSV / Tabular | Sales analytics, PowerBI / Tableau dashboards, SQL query testing |
+| **Malaria** | CSV / Tabular | Health care analytics, PowerBI / Tableau dashboards , classification models |
+| **Employee Attrition** | CSV / Tabular | HR analytics, PowerBI / Tableau dashboards , classification models |
+| **Supply chain management or warehouse management** | CSV / Tabular | supply chain analytics, PowerBI / Tableau dashboards , regression/classificationn models |
+| **Students Performance** | CSV / Tabular | Students performance tracking, PowerBI / Tableau dashboards , regression models |
+| *Mail** | CSV / Tabular | LLM analytics,  classification models |
 and more....
 ---
 
