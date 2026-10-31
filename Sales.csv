@@ -1,0 +1,501 @@
+OrderID,CustomerID,CustomerName,Region,ProductID,ProductName,OrderDate,Category,SubCategory,Quantity,Discount,Price,TotalAmount
+OID1,CID121,David Ibarra,East,PID3,Johnson-Ho,2024-01-11,Technology,Printer,8,20.0,5135.0,41060.0
+OID2,CID48,Jenna Hicks,South,PID9,"Orozco, Clark and Wood",2025-05-25,Office Supplies,Clips,7,2.0,7.0,47.0
+OID3,CID51,Lori Bautista,West,PID7,Hernandez LLC,2024-06-14,Technology,Wireless Keyboard,20,20.0,677.0,13520.0
+OID4,CID18,Zachary Benson,South,PID8,Pearson PLC,2025-02-22,Technology,Printer,20,20.0,19213.0,384240.0
+OID5,CID45,Tyler Ross,Central,PID1,Owen Inc,2025-01-13,Office Supplies,Pins,27,2.0,15.0,403.0
+OID6,CID118,Maria Graham,North,PID5,Dixon Inc,2025-03-02,Office Supplies,Pins,32,2.0,8.0,254.0
+OID7,CID148,Laura Cross,Central,PID7,Owen Inc,2024-04-22,Office Supplies,Pins,26,2.0,11.0,284.0
+OID8,CID122,Ashley Murphy,Central,PID4,Johnson-Ho,2025-07-08,Technology,Printer Catridge,3,20.0,656.0,1948.0
+OID9,CID81,Sean Hughes,East,PID4,Moore Inc,2025-05-13,Technology,Laptop,39,20.0,92591.0,3611029.0
+OID10,CID122,Ashley Murphy,North,PID7,Abbott and Sons,2025-12-09,Office Supplies,Books,44,2.0,8.0,350.0
+OID11,CID100,Lindsey Moyer,West,PID1,Hernandez LLC,2024-05-26,Technology,Printer,8,20.0,17123.0,136964.0
+OID12,CID105,Austin Valdez,Central,PID6,"Miles, Williams and Webb",2024-02-23,Technology,Printer Catridge,18,20.0,773.0,13894.0
+OID13,CID131,Marie Lamb,Central,PID7,Moore Inc,2025-03-10,Technology,Wireless Keyboard,18,20.0,635.0,11410.0
+OID14,CID64,Angela Powell,East,PID9,Clark-Burgess,2024-09-19,Technology,Printer,45,20.0,9028.0,406240.0
+OID15,CID107,Jason Thompson,West,PID9,"Miles, Williams and Webb",2024-11-06,Technology,Printer Catridge,19,20.0,958.0,18182.0
+OID16,CID38,Lisa Brooks,East,PID7,Kramer-Logan,2024-05-06,Technology,Wireless mouse,7,20.0,753.0,5251.0
+OID17,CID15,Kyle Taylor,North,PID8,"Miles, Williams and Webb",2025-11-11,Technology,Laptop,35,20.0,79062.0,2767150.0
+OID18,CID125,Leslie Newman,Central,PID8,"Miles, Williams and Webb",2025-02-03,Technology,Laptop,10,20.0,78467.0,784650.0
+OID19,CID142,Brian Martinez,West,PID7,"Orozco, Clark and Wood",2024-10-27,Office Supplies,Clips,11,2.0,5.0,53.0
+OID20,CID89,James Kelly,West,PID9,Carrillo LLC,2025-05-11,Office Supplies,Books,17,2.0,9.0,151.0
+OID21,CID60,Kyle Moreno,South,PID2,Powell Inc,2025-11-16,Technology,Printer Catridge,48,20.0,657.0,31516.0
+OID22,CID19,Kevin Henderson,East,PID3,Baker and Sons,2025-09-21,Office Supplies,Books,31,2.0,8.0,246.0
+OID23,CID27,Christina Kim,West,PID5,Clark-Burgess,2025-10-25,Technology,Laptop,32,20.0,27834.0,890668.0
+OID24,CID116,Brian Diaz DDS,South,PID7,Mcconnell LLC,2024-05-15,Office Supplies,Clips,48,2.0,13.0,622.0
+OID25,CID131,Marie Lamb,East,PID5,"Orozco, Clark and Wood",2025-07-17,Office Supplies,Pens,43,2.0,8.0,342.0
+OID26,CID19,Kevin Henderson,East,PID1,Dixon Inc,2024-10-31,Office Supplies,Clips,6,2.0,11.0,64.0
+OID27,CID17,Stephanie Murphy,North,PID8,Owen Inc,2024-05-23,Office Supplies,Pens,46,2.0,9.0,412.0
+OID28,CID9,Hunter Nichols,Central,PID9,Carrillo LLC,2024-12-12,Office Supplies,Pens,7,2.0,7.0,47.0
+OID29,CID14,Ryan Williams,Central,PID9,Dixon Inc,2024-01-20,Office Supplies,Books,15,2.0,10.0,148.0
+OID30,CID56,Andrea Mcpherson,South,PID8,"Miles, Williams and Webb",2024-09-10,Technology,Wireless Keyboard,20,20.0,526.0,10500.0
+OID31,CID119,Cassandra Wheeler,East,PID8,Hernandez LLC,2025-02-19,Technology,Laptop,16,20.0,56507.0,904092.0
+OID32,CID46,Leslie Hall,South,PID3,Hernandez LLC,2024-03-01,Technology,Printer Catridge,27,20.0,968.0,26116.0
+OID33,CID123,Pamela Chen,North,PID4,Abbott and Sons,2025-01-22,Office Supplies,Books,32,2.0,10.0,318.0
+OID34,CID24,Andrew Mccarty,South,PID9,Dixon Inc,2024-01-31,Office Supplies,Books,36,2.0,10.0,358.0
+OID35,CID149,Anthony Alexander,North,PID8,Mcconnell LLC,2025-06-14,Office Supplies,Clips,21,2.0,7.0,145.0
+OID36,CID58,Robert Moreno II,West,PID5,Owen Inc,2024-03-11,Office Supplies,Pens,24,2.0,10.0,238.0
+OID37,CID19,Kevin Henderson,West,PID2,Kramer-Logan,2025-05-25,Technology,Wireless mouse,17,20.0,1111.0,18867.0
+OID38,CID5,Martha Harding,South,PID3,Hernandez LLC,2025-07-12,Technology,Printer,2,20.0,7431.0,14842.0
+OID39,CID95,Donald King,North,PID6,Rogers-Miller,2025-01-19,Office Supplies,Clips,31,2.0,12.0,370.0
+OID40,CID119,Cassandra Wheeler,North,PID4,Kramer-Logan,2025-08-29,Technology,Wireless Keyboard,6,20.0,809.0,4834.0
+OID41,CID127,Donald Walker,North,PID8,Mcconnell LLC,2024-11-02,Office Supplies,Clips,3,2.0,8.0,22.0
+OID42,CID53,Sheila Smith,Central,PID5,Rogers-Miller,2024-07-06,Office Supplies,Clips,23,2.0,6.0,136.0
+OID43,CID97,Christine Hughes,South,PID9,"Patrick, Bryant and Lee",2025-11-06,Technology,Laptop,34,20.0,91624.0,3115196.0
+OID44,CID59,Curtis Lewis,South,PID9,Kramer-Logan,2024-01-10,Technology,Printer Catridge,23,20.0,973.0,22359.0
+OID45,CID56,Andrea Mcpherson,Central,PID1,Rogers-Miller,2024-02-10,Office Supplies,Books,13,2.0,10.0,128.0
+OID46,CID34,Shane Turner,North,PID9,"Orozco, Clark and Wood",2025-06-13,Office Supplies,Clips,28,2.0,11.0,306.0
+OID47,CID5,Martha Harding,North,PID4,Powell Inc,2025-07-31,Technology,Printer Catridge,13,20.0,1113.0,14449.0
+OID48,CID112,Eddie Carson,South,PID7,"Miles, Williams and Webb",2024-09-04,Technology,Printer,23,20.0,7322.0,168386.0
+OID49,CID54,Ronald Schmidt,South,PID6,"Patrick, Bryant and Lee",2025-04-05,Technology,Printer Catridge,33,20.0,787.0,25951.0
+OID50,CID84,Molly Murray,West,PID2,Obrien Group,2025-01-20,Technology,Wireless Keyboard,20,20.0,1116.0,22300.0
+OID51,CID103,Holly Palmer,North,PID4,Dixon Inc,2024-08-19,Office Supplies,Pens,9,2.0,9.0,79.0
+OID52,CID7,Frank Hoffman,South,PID9,"Orozco, Clark and Wood",2024-09-04,Office Supplies,Pens,21,2.0,10.0,208.0
+OID53,CID63,Donald Bailey,South,PID7,Pearson PLC,2024-12-12,Technology,Wireless Keyboard,27,20.0,1068.0,28816.0
+OID54,CID89,James Kelly,East,PID6,Moore Inc,2024-04-01,Technology,Wireless mouse,46,20.0,1031.0,47406.0
+OID55,CID112,Eddie Carson,East,PID6,Hernandez LLC,2024-12-14,Technology,Printer,32,20.0,19924.0,637548.0
+OID56,CID58,Robert Moreno II,North,PID4,Carrillo LLC,2025-10-08,Office Supplies,Clips,4,2.0,7.0,26.0
+OID57,CID148,Laura Cross,East,PID2,"Orozco, Clark and Wood",2024-01-07,Office Supplies,Clips,34,2.0,11.0,372.0
+OID58,CID28,Ashley Gibson,East,PID3,Moore Inc,2025-05-19,Technology,Printer Catridge,18,20.0,927.0,16666.0
+OID59,CID143,Stephanie Bennett,East,PID2,Baker and Sons,2025-03-06,Office Supplies,Pins,11,2.0,8.0,86.0
+OID60,CID79,Margaret Tucker,North,PID6,Powell Inc,2025-03-01,Technology,Laptop,22,20.0,84339.0,1855438.0
+OID61,CID135,Jessica Dickerson,South,PID7,"Patrick, Bryant and Lee",2024-06-23,Technology,Wireless Keyboard,40,20.0,841.0,33620.0
+OID62,CID118,Maria Graham,North,PID4,Powell Inc,2025-01-22,Technology,Laptop,9,20.0,40874.0,367846.0
+OID63,CID98,Maureen Lopez,Central,PID6,Mcconnell LLC,2025-06-15,Office Supplies,Clips,38,2.0,11.0,416.0
+OID64,CID26,Shannon Terrell,North,PID2,Moore Inc,2024-03-13,Technology,Printer,1,20.0,5269.0,5249.0
+OID65,CID82,Emma Jones,North,PID7,Abbott and Sons,2024-08-28,Office Supplies,Pins,14,2.0,11.0,152.0
+OID66,CID24,Andrew Mccarty,South,PID1,Obrien Group,2025-02-10,Technology,Wireless Keyboard,35,20.0,1106.0,38690.0
+OID67,CID20,Michelle Merritt,South,PID7,Hernandez LLC,2024-11-22,Technology,Wireless mouse,46,20.0,1158.0,53248.0
+OID68,CID123,Pamela Chen,South,PID7,Hernandez LLC,2025-04-05,Technology,Printer Catridge,9,20.0,1000.0,8980.0
+OID69,CID88,Madison Wilson,South,PID1,Rogers-Miller,2024-12-08,Office Supplies,Pens,47,2.0,8.0,374.0
+OID70,CID59,Curtis Lewis,South,PID3,"Patrick, Bryant and Lee",2025-11-18,Technology,Printer Catridge,34,20.0,941.0,31974.0
+OID71,CID123,Pamela Chen,Central,PID6,Mcconnell LLC,2024-12-16,Office Supplies,Pens,2,2.0,11.0,20.0
+OID72,CID56,Andrea Mcpherson,North,PID7,"Miles, Williams and Webb",2025-11-20,Technology,Wireless Keyboard,35,20.0,1100.0,38480.0
+OID73,CID72,Erica Ponce,Central,PID8,"Patrick, Bryant and Lee",2025-03-17,Technology,Printer Catridge,49,20.0,1150.0,56330.0
+OID74,CID94,Mrs. Katherine Allen PhD,East,PID9,"Patrick, Bryant and Lee",2024-01-25,Technology,Laptop,19,20.0,76502.0,1453518.0
+OID75,CID130,Penny Peters,East,PID4,"Miles, Williams and Webb",2024-03-16,Technology,Printer,30,20.0,7727.0,231790.0
+OID76,CID34,Shane Turner,South,PID1,Carrillo LLC,2024-05-13,Office Supplies,Clips,19,2.0,8.0,150.0
+OID77,CID94,Mrs. Katherine Allen PhD,East,PID1,Baker and Sons,2024-08-09,Office Supplies,Pins,35,2.0,11.0,383.0
+OID78,CID82,Emma Jones,North,PID4,Rogers-Miller,2024-07-03,Office Supplies,Pins,46,2.0,6.0,274.0
+OID79,CID42,Sean Reeves,West,PID2,Kramer-Logan,2024-01-18,Technology,Printer Catridge,44,20.0,931.0,40944.0
+OID80,CID7,Frank Hoffman,South,PID4,Rogers-Miller,2024-02-18,Office Supplies,Books,49,2.0,8.0,390.0
+OID81,CID90,Nicole Cummings,East,PID7,Dixon Inc,2024-02-12,Office Supplies,Pens,34,2.0,7.0,236.0
+OID82,CID77,Mr. Jeffery Acosta,East,PID1,Pearson PLC,2024-02-18,Technology,Wireless Keyboard,7,20.0,921.0,6427.0
+OID83,CID33,Donna Gray,South,PID1,Moore Inc,2025-12-01,Technology,Printer,34,20.0,11708.0,398052.0
+OID84,CID124,Scott Wright,West,PID5,Pearson PLC,2024-08-04,Technology,Printer,42,20.0,12565.0,527710.0
+OID85,CID38,Lisa Brooks,East,PID8,Johnson-Ho,2025-05-25,Technology,Wireless Keyboard,26,20.0,653.0,16958.0
+OID86,CID136,Debra Cook,South,PID1,Kramer-Logan,2024-07-06,Technology,Wireless mouse,5,20.0,905.0,4505.0
+OID87,CID40,Timothy Spencer,North,PID5,"Miles, Williams and Webb",2025-02-11,Technology,Wireless Keyboard,46,20.0,1042.0,47912.0
+OID88,CID88,Madison Wilson,West,PID7,Dixon Inc,2025-10-27,Office Supplies,Pins,31,2.0,8.0,246.0
+OID89,CID128,Andrew Smith,North,PID4,Hernandez LLC,2024-04-09,Technology,Printer Catridge,8,20.0,898.0,7164.0
+OID90,CID32,Monique Thompson,North,PID4,Obrien Group,2025-04-11,Technology,Printer,20,20.0,8900.0,177980.0
+OID91,CID8,Emily Bowman,North,PID6,Carrillo LLC,2024-03-07,Office Supplies,Clips,32,2.0,8.0,254.0
+OID92,CID119,Cassandra Wheeler,East,PID1,Kramer-Logan,2024-01-10,Technology,Wireless Keyboard,12,20.0,985.0,11800.0
+OID93,CID23,Tina Jackson,West,PID3,"Orozco, Clark and Wood",2025-02-10,Office Supplies,Books,31,2.0,19.0,587.0
+OID94,CID117,Kevin Fuller,Central,PID9,Baker and Sons,2024-10-24,Office Supplies,Pins,33,2.0,8.0,262.0
+OID95,CID91,Kayla Moore,South,PID3,Kramer-Logan,2024-11-27,Technology,Wireless Keyboard,16,20.0,644.0,10284.0
+OID96,CID138,Christine Salazar,South,PID1,Abbott and Sons,2025-02-27,Office Supplies,Books,20,2.0,14.0,278.0
+OID97,CID58,Robert Moreno II,East,PID9,Moore Inc,2024-11-07,Technology,Printer Catridge,13,20.0,651.0,8443.0
+OID98,CID9,Hunter Nichols,West,PID8,Dixon Inc,2024-05-26,Office Supplies,Pens,38,2.0,7.0,264.0
+OID99,CID31,Don Cummings,West,PID2,Abbott and Sons,2025-02-22,Office Supplies,Books,6,2.0,11.0,64.0
+OID100,CID18,Zachary Benson,South,PID7,Carrillo LLC,2025-08-03,Office Supplies,Clips,38,2.0,23.0,872.0
+OID101,CID17,Stephanie Murphy,West,PID8,Abbott and Sons,2025-08-14,Office Supplies,Clips,1,2.0,13.0,11.0
+OID102,CID44,Kayla Villa,South,PID7,Owen Inc,2025-11-19,Office Supplies,Pins,33,2.0,8.0,262.0
+OID103,CID45,Tyler Ross,North,PID7,Johnson-Ho,2024-07-27,Technology,Laptop,2,20.0,51138.0,102256.0
+OID104,CID32,Monique Thompson,East,PID8,Clark-Burgess,2024-10-04,Technology,Wireless Keyboard,12,20.0,961.0,11512.0
+OID105,CID62,Matthew Ferguson,East,PID3,Rogers-Miller,2024-06-17,Office Supplies,Books,20,2.0,11.0,218.0
+OID106,CID77,Mr. Jeffery Acosta,Central,PID3,Abbott and Sons,2025-09-23,Office Supplies,Pins,33,2.0,11.0,361.0
+OID107,CID52,Lori Cox,North,PID4,Clark-Burgess,2024-03-04,Technology,Laptop,44,20.0,60499.0,2661936.0
+OID108,CID83,Hannah Barrett,South,PID8,Powell Inc,2025-10-19,Technology,Printer Catridge,39,20.0,953.0,37147.0
+OID109,CID92,Bailey Brooks,West,PID6,Powell Inc,2025-10-05,Technology,Wireless mouse,48,20.0,1082.0,51916.0
+OID110,CID146,Shannon Moore,Central,PID5,Dixon Inc,2025-10-30,Office Supplies,Pens,28,2.0,13.0,362.0
+OID111,CID63,Donald Bailey,Central,PID3,Baker and Sons,2024-03-06,Office Supplies,Books,4,2.0,14.0,54.0
+OID112,CID32,Monique Thompson,Central,PID9,"Orozco, Clark and Wood",2025-04-05,Office Supplies,Books,44,2.0,11.0,482.0
+OID113,CID100,Lindsey Moyer,Central,PID3,"Miles, Williams and Webb",2024-07-09,Technology,Printer Catridge,39,20.0,684.0,26656.0
+OID114,CID145,Elizabeth Cox,West,PID6,Clark-Burgess,2024-01-13,Technology,Wireless Keyboard,11,20.0,1089.0,11959.0
+OID115,CID98,Maureen Lopez,East,PID6,Pearson PLC,2024-12-02,Technology,Wireless mouse,14,20.0,681.0,9514.0
+OID116,CID52,Lori Cox,South,PID3,Clark-Burgess,2025-10-28,Technology,Printer Catridge,10,20.0,961.0,9590.0
+OID117,CID34,Shane Turner,Central,PID3,Mcconnell LLC,2024-10-08,Office Supplies,Pens,37,2.0,12.0,442.0
+OID118,CID41,Kathryn Pierce,East,PID5,Carrillo LLC,2025-05-14,Office Supplies,Clips,17,2.0,7.0,117.0
+OID119,CID7,Frank Hoffman,South,PID7,"Patrick, Bryant and Lee",2025-05-15,Technology,Wireless Keyboard,31,20.0,1196.0,37056.0
+OID120,CID31,Don Cummings,East,PID7,"Patrick, Bryant and Lee",2024-05-05,Technology,Wireless mouse,20,20.0,653.0,13040.0
+OID121,CID71,Gregory Anderson,West,PID8,Hernandez LLC,2024-05-19,Technology,Printer Catridge,17,20.0,1068.0,18136.0
+OID122,CID99,Gwendolyn Martinez,North,PID5,"Miles, Williams and Webb",2024-06-28,Technology,Printer Catridge,46,20.0,1108.0,50948.0
+OID123,CID55,Sara Gray,South,PID1,Moore Inc,2024-04-11,Technology,Wireless mouse,17,20.0,929.0,15773.0
+OID124,CID112,Eddie Carson,North,PID3,"Orozco, Clark and Wood",2024-10-06,Office Supplies,Clips,17,2.0,12.0,202.0
+OID125,CID74,Megan Robinson,North,PID7,Hernandez LLC,2025-11-28,Technology,Printer,8,20.0,18931.0,151428.0
+OID126,CID83,Hannah Barrett,West,PID5,Hernandez LLC,2025-05-04,Technology,Printer Catridge,17,20.0,1196.0,20312.0
+OID127,CID46,Leslie Hall,West,PID3,Owen Inc,2024-11-20,Office Supplies,Clips,6,2.0,10.0,58.0
+OID128,CID76,Luis Dominguez,Central,PID1,Hernandez LLC,2025-09-02,Technology,Wireless Keyboard,31,20.0,617.0,19107.0
+OID129,CID29,Rachel Ramos,South,PID8,"Patrick, Bryant and Lee",2024-03-13,Technology,Printer,12,20.0,16863.0,202336.0
+OID130,CID36,Mr. Robert Mann,Central,PID4,Kramer-Logan,2024-06-18,Technology,Printer,5,20.0,18584.0,92900.0
+OID131,CID138,Christine Salazar,East,PID7,Rogers-Miller,2025-05-03,Office Supplies,Pens,31,2.0,11.0,339.0
+OID132,CID89,James Kelly,Central,PID6,Clark-Burgess,2024-09-06,Technology,Wireless mouse,11,20.0,734.0,8054.0
+OID133,CID93,Dominic Tucker,East,PID4,Owen Inc,2024-08-03,Office Supplies,Pens,34,2.0,8.0,270.0
+OID134,CID129,Stephanie Williams,West,PID2,Powell Inc,2024-06-23,Technology,Printer Catridge,36,20.0,921.0,33136.0
+OID135,CID111,Douglas Ruiz,Central,PID9,Kramer-Logan,2024-03-02,Technology,Printer Catridge,35,20.0,602.0,21050.0
+OID136,CID44,Kayla Villa,South,PID1,Owen Inc,2025-06-15,Office Supplies,Books,7,2.0,12.0,82.0
+OID137,CID146,Shannon Moore,West,PID3,Powell Inc,2025-07-22,Technology,Wireless mouse,5,20.0,784.0,3900.0
+OID138,CID63,Donald Bailey,West,PID6,Pearson PLC,2024-11-29,Technology,Wireless Keyboard,20,20.0,1148.0,22940.0
+OID139,CID92,Bailey Brooks,East,PID2,Obrien Group,2024-10-06,Technology,Wireless Keyboard,36,20.0,1075.0,38680.0
+OID140,CID44,Kayla Villa,South,PID4,Moore Inc,2024-08-26,Technology,Laptop,34,20.0,97987.0,3331538.0
+OID141,CID38,Lisa Brooks,Central,PID1,Johnson-Ho,2025-01-31,Technology,Wireless mouse,46,20.0,1002.0,46072.0
+OID142,CID142,Brian Martinez,North,PID3,Mcconnell LLC,2024-02-25,Office Supplies,Clips,4,2.0,7.0,26.0
+OID143,CID58,Robert Moreno II,East,PID5,"Miles, Williams and Webb",2025-02-28,Technology,Printer,18,20.0,15341.0,276118.0
+OID144,CID28,Ashley Gibson,East,PID5,Clark-Burgess,2024-12-16,Technology,Wireless Keyboard,3,20.0,1089.0,3247.0
+OID145,CID61,Timothy Willis,South,PID4,Pearson PLC,2024-09-10,Technology,Wireless mouse,21,20.0,640.0,13420.0
+OID146,CID37,Stephen Fisher,Central,PID4,Mcconnell LLC,2024-09-09,Office Supplies,Books,31,2.0,12.0,370.0
+OID147,CID22,Jose Murphy,East,PID2,Powell Inc,2024-04-01,Technology,Printer,21,20.0,18982.0,398602.0
+OID148,CID117,Kevin Fuller,West,PID5,Owen Inc,2025-04-20,Office Supplies,Books,44,2.0,14.0,614.0
+OID149,CID44,Kayla Villa,South,PID2,"Miles, Williams and Webb",2025-06-03,Technology,Wireless mouse,15,20.0,1022.0,15310.0
+OID150,CID98,Maureen Lopez,South,PID6,Dixon Inc,2025-09-30,Office Supplies,Pens,1,2.0,8.0,6.0
+OID151,CID30,Andrea Erickson,South,PID6,Powell Inc,2025-03-17,Technology,Wireless Keyboard,11,20.0,839.0,9209.0
+OID152,CID30,Andrea Erickson,South,PID7,Clark-Burgess,2025-03-27,Technology,Wireless mouse,1,20.0,949.0,929.0
+OID153,CID90,Nicole Cummings,South,PID3,Owen Inc,2024-07-10,Office Supplies,Pins,32,2.0,12.0,382.0
+OID154,CID76,Luis Dominguez,Central,PID1,Johnson-Ho,2024-04-28,Technology,Printer Catridge,16,20.0,512.0,8172.0
+OID155,CID92,Bailey Brooks,South,PID1,Pearson PLC,2024-06-15,Technology,Wireless mouse,37,20.0,1080.0,39940.0
+OID156,CID129,Stephanie Williams,West,PID7,Moore Inc,2024-09-20,Technology,Wireless mouse,43,20.0,717.0,30811.0
+OID157,CID11,Matthew Villarreal,East,PID8,Baker and Sons,2025-06-15,Office Supplies,Pens,17,2.0,8.0,134.0
+OID158,CID106,Mark Lee,North,PID1,Owen Inc,2025-07-28,Office Supplies,Pins,31,2.0,13.0,401.0
+OID159,CID6,Connie Woodward DDS,West,PID6,Carrillo LLC,2024-04-17,Office Supplies,Clips,8,2.0,11.0,86.0
+OID160,CID117,Kevin Fuller,South,PID3,"Miles, Williams and Webb",2025-03-27,Technology,Wireless Keyboard,33,20.0,1129.0,37237.0
+OID161,CID126,Kathy Craig,East,PID3,Baker and Sons,2025-01-15,Office Supplies,Clips,8,2.0,11.0,86.0
+OID162,CID66,Katie Black,East,PID2,Rogers-Miller,2024-08-11,Office Supplies,Pins,13,2.0,6.0,76.0
+OID163,CID114,Laura Kelley,North,PID8,Pearson PLC,2024-11-09,Technology,Wireless Keyboard,35,20.0,851.0,29765.0
+OID164,CID40,Timothy Spencer,West,PID8,Carrillo LLC,2025-03-22,Office Supplies,Books,47,2.0,7.0,327.0
+OID165,CID128,Andrew Smith,West,PID7,Rogers-Miller,2024-02-02,Office Supplies,Clips,42,2.0,15.0,628.0
+OID166,CID24,Andrew Mccarty,West,PID5,Obrien Group,2025-08-24,Technology,Printer,42,20.0,19702.0,827464.0
+OID167,CID26,Shannon Terrell,Central,PID8,"Patrick, Bryant and Lee",2024-08-07,Technology,Laptop,43,20.0,92121.0,3961183.0
+OID168,CID79,Margaret Tucker,South,PID2,Rogers-Miller,2025-12-07,Office Supplies,Books,4,2.0,12.0,46.0
+OID169,CID124,Scott Wright,South,PID5,Moore Inc,2025-06-28,Technology,Printer,18,20.0,16556.0,297988.0
+OID170,CID102,Susan Roberts,West,PID6,Hernandez LLC,2024-07-14,Technology,Wireless Keyboard,19,20.0,572.0,10848.0
+OID171,CID92,Bailey Brooks,East,PID9,"Orozco, Clark and Wood",2024-06-08,Office Supplies,Pens,4,2.0,6.0,22.0
+OID172,CID70,Nicole Willis,Central,PID4,"Miles, Williams and Webb",2024-02-25,Technology,Wireless Keyboard,19,20.0,573.0,10867.0
+OID173,CID91,Kayla Moore,North,PID3,"Patrick, Bryant and Lee",2024-08-21,Technology,Wireless Keyboard,5,20.0,961.0,4785.0
+OID174,CID23,Tina Jackson,East,PID1,Abbott and Sons,2024-08-16,Office Supplies,Books,44,2.0,11.0,482.0
+OID175,CID13,Derrick Armstrong,South,PID3,Johnson-Ho,2025-12-03,Technology,Printer,17,20.0,12734.0,216458.0
+OID176,CID137,Melanie Duncan,West,PID5,Mcconnell LLC,2024-12-06,Office Supplies,Pins,23,2.0,16.0,366.0
+OID177,CID112,Eddie Carson,Central,PID6,Powell Inc,2024-09-11,Technology,Printer Catridge,8,20.0,714.0,5692.0
+OID178,CID85,Devon Vargas,East,PID2,Obrien Group,2025-11-17,Technology,Wireless mouse,6,20.0,569.0,3394.0
+OID179,CID126,Kathy Craig,West,PID4,Owen Inc,2025-08-06,Office Supplies,Pins,35,2.0,9.0,313.0
+OID180,CID68,David Willis DDS,Central,PID1,"Miles, Williams and Webb",2025-03-27,Technology,Printer,44,20.0,10958.0,482132.0
+OID181,CID128,Andrew Smith,Central,PID5,Clark-Burgess,2024-02-10,Technology,Printer Catridge,49,20.0,675.0,33055.0
+OID182,CID132,Kathryn Parker,West,PID7,"Miles, Williams and Webb",2024-11-17,Technology,Laptop,31,20.0,97791.0,3031501.0
+OID183,CID122,Ashley Murphy,Central,PID1,Pearson PLC,2025-12-09,Technology,Wireless mouse,28,20.0,576.0,16108.0
+OID184,CID141,Cynthia Foster,South,PID9,Obrien Group,2024-03-20,Technology,Wireless Keyboard,41,20.0,1172.0,48032.0
+OID185,CID120,Julia Wolfe,South,PID4,Kramer-Logan,2025-11-09,Technology,Printer Catridge,20,20.0,880.0,17580.0
+OID186,CID132,Kathryn Parker,South,PID2,Johnson-Ho,2025-02-16,Technology,Laptop,18,20.0,95659.0,1721842.0
+OID187,CID49,Larry Jones,North,PID3,Hernandez LLC,2025-03-16,Technology,Printer Catridge,22,20.0,1190.0,26160.0
+OID188,CID112,Eddie Carson,East,PID4,Obrien Group,2024-01-14,Technology,Wireless mouse,46,20.0,685.0,31490.0
+OID189,CID84,Molly Murray,East,PID6,Owen Inc,2024-01-03,Office Supplies,Pens,16,2.0,13.0,206.0
+OID190,CID86,Ronald Cain,Central,PID3,Carrillo LLC,2025-08-08,Office Supplies,Pens,35,2.0,10.0,348.0
+OID191,CID48,Jenna Hicks,South,PID1,Dixon Inc,2024-01-03,Office Supplies,Pins,6,2.0,16.0,94.0
+OID192,CID99,Gwendolyn Martinez,West,PID7,Hernandez LLC,2025-05-16,Technology,Printer Catridge,38,20.0,1075.0,40830.0
+OID193,CID14,Ryan Williams,North,PID4,Pearson PLC,2024-02-22,Technology,Wireless Keyboard,10,20.0,1196.0,11940.0
+OID194,CID81,Sean Hughes,East,PID4,Carrillo LLC,2024-01-06,Office Supplies,Clips,3,2.0,10.0,28.0
+OID195,CID34,Shane Turner,East,PID9,Pearson PLC,2025-08-19,Technology,Wireless Keyboard,13,20.0,913.0,11849.0
+OID196,CID67,Patricia Lawson,West,PID5,Carrillo LLC,2025-04-29,Office Supplies,Pins,22,2.0,6.0,130.0
+OID197,CID40,Timothy Spencer,Central,PID7,Powell Inc,2024-12-31,Technology,Wireless mouse,17,20.0,768.0,13036.0
+OID198,CID146,Shannon Moore,Central,PID4,Baker and Sons,2025-02-09,Office Supplies,Pins,49,2.0,12.0,586.0
+OID199,CID20,Michelle Merritt,West,PID7,Mcconnell LLC,2025-03-14,Office Supplies,Clips,32,2.0,8.0,254.0
+OID200,CID51,Lori Bautista,East,PID2,"Patrick, Bryant and Lee",2025-04-22,Technology,Printer,21,20.0,17624.0,370084.0
+OID201,CID114,Laura Kelley,Central,PID8,Abbott and Sons,2025-10-17,Office Supplies,Pins,7,2.0,9.0,61.0
+OID202,CID88,Madison Wilson,West,PID8,Pearson PLC,2024-08-16,Technology,Wireless mouse,20,20.0,1031.0,20600.0
+OID203,CID41,Kathryn Pierce,South,PID3,Johnson-Ho,2024-05-14,Technology,Wireless mouse,41,20.0,995.0,40775.0
+OID204,CID9,Hunter Nichols,West,PID5,Mcconnell LLC,2025-06-23,Office Supplies,Pens,18,2.0,5.0,88.0
+OID205,CID93,Dominic Tucker,North,PID9,Carrillo LLC,2025-10-05,Office Supplies,Clips,10,2.0,10.0,98.0
+OID206,CID107,Jason Thompson,Central,PID9,"Miles, Williams and Webb",2024-10-06,Technology,Printer,33,20.0,14873.0,490789.0
+OID207,CID52,Lori Cox,North,PID8,Dixon Inc,2024-09-22,Office Supplies,Clips,48,2.0,13.0,622.0
+OID208,CID71,Gregory Anderson,East,PID6,Abbott and Sons,2025-02-21,Office Supplies,Clips,49,2.0,6.0,292.0
+OID209,CID26,Shannon Terrell,North,PID3,"Miles, Williams and Webb",2025-07-24,Technology,Laptop,23,20.0,27409.0,630387.0
+OID210,CID67,Patricia Lawson,East,PID6,Clark-Burgess,2024-08-06,Technology,Laptop,42,20.0,71553.0,3005206.0
+OID211,CID28,Ashley Gibson,East,PID4,Obrien Group,2024-07-11,Technology,Laptop,36,20.0,57267.0,2061592.0
+OID212,CID43,Bobby Russell,North,PID7,Hernandez LLC,2024-03-30,Technology,Wireless Keyboard,9,20.0,543.0,4867.0
+OID213,CID37,Stephen Fisher,South,PID3,Baker and Sons,2025-04-02,Office Supplies,Books,15,2.0,11.0,163.0
+OID214,CID102,Susan Roberts,South,PID3,Moore Inc,2025-04-28,Technology,Wireless Keyboard,35,20.0,1186.0,41490.0
+OID215,CID69,John Walker,Central,PID1,"Miles, Williams and Webb",2024-05-04,Technology,Printer,14,20.0,10682.0,149528.0
+OID216,CID34,Shane Turner,West,PID8,Dixon Inc,2024-02-05,Office Supplies,Books,18,2.0,14.0,250.0
+OID217,CID21,Joseph Vaughn,West,PID2,"Miles, Williams and Webb",2025-02-12,Technology,Laptop,38,20.0,94882.0,3605496.0
+OID218,CID81,Sean Hughes,East,PID2,Mcconnell LLC,2025-05-05,Office Supplies,Books,37,2.0,6.0,220.0
+OID219,CID28,Ashley Gibson,North,PID9,Moore Inc,2025-03-30,Technology,Printer Catridge,35,20.0,841.0,29415.0
+OID220,CID109,Jack Riddle,East,PID3,Pearson PLC,2024-10-27,Technology,Wireless Keyboard,30,20.0,565.0,16930.0
+OID221,CID91,Kayla Moore,West,PID6,Obrien Group,2025-08-01,Technology,Printer,30,20.0,11501.0,345010.0
+OID222,CID2,Tracy Rivera,South,PID6,"Orozco, Clark and Wood",2024-01-30,Office Supplies,Clips,10,2.0,3.0,28.0
+OID223,CID146,Shannon Moore,East,PID4,Pearson PLC,2024-07-29,Technology,Printer Catridge,44,20.0,953.0,41912.0
+OID224,CID45,Tyler Ross,South,PID8,Powell Inc,2025-11-30,Technology,Wireless mouse,46,20.0,748.0,34388.0
+OID225,CID119,Cassandra Wheeler,West,PID1,Powell Inc,2024-08-01,Technology,Laptop,33,20.0,87550.0,2889130.0
+OID226,CID130,Penny Peters,West,PID4,Dixon Inc,2024-05-28,Office Supplies,Pins,23,2.0,9.0,205.0
+OID227,CID146,Shannon Moore,North,PID5,Moore Inc,2025-04-28,Technology,Wireless Keyboard,26,20.0,837.0,21742.0
+OID228,CID4,Brittany Evans MD,Central,PID8,Moore Inc,2024-03-23,Technology,Printer Catridge,20,20.0,639.0,12760.0
+OID229,CID103,Holly Palmer,North,PID1,Johnson-Ho,2025-09-01,Technology,Printer,13,20.0,8228.0,106944.0
+OID230,CID17,Stephanie Murphy,Central,PID2,Clark-Burgess,2025-06-18,Technology,Laptop,18,20.0,49423.0,889594.0
+OID231,CID134,Emily Cuevas,West,PID4,"Miles, Williams and Webb",2025-11-03,Technology,Wireless Keyboard,47,20.0,1187.0,55769.0
+OID232,CID133,Reginald Shelton,East,PID1,Powell Inc,2024-09-25,Technology,Wireless Keyboard,9,20.0,1014.0,9106.0
+OID233,CID19,Kevin Henderson,Central,PID8,"Orozco, Clark and Wood",2025-09-08,Office Supplies,Pins,15,2.0,8.0,118.0
+OID234,CID100,Lindsey Moyer,South,PID5,Moore Inc,2025-08-21,Technology,Printer Catridge,14,20.0,1138.0,15912.0
+OID235,CID91,Kayla Moore,North,PID3,Mcconnell LLC,2025-03-06,Office Supplies,Clips,6,2.0,7.0,40.0
+OID236,CID148,Laura Cross,East,PID3,Baker and Sons,2024-12-15,Office Supplies,Pens,13,2.0,13.0,167.0
+OID237,CID89,James Kelly,West,PID2,Dixon Inc,2024-06-19,Office Supplies,Books,7,2.0,7.0,47.0
+OID238,CID112,Eddie Carson,East,PID1,"Orozco, Clark and Wood",2025-10-25,Office Supplies,Clips,42,2.0,10.0,418.0
+OID239,CID80,Alexandra Mason,West,PID3,Clark-Burgess,2024-02-02,Technology,Wireless Keyboard,9,20.0,1163.0,10447.0
+OID240,CID44,Kayla Villa,North,PID6,Baker and Sons,2025-01-09,Office Supplies,Pens,41,2.0,8.0,326.0
+OID241,CID64,Angela Powell,South,PID3,Hernandez LLC,2024-05-14,Technology,Laptop,27,20.0,77854.0,2102038.0
+OID242,CID13,Derrick Armstrong,West,PID1,Kramer-Logan,2025-06-06,Technology,Printer Catridge,23,20.0,551.0,12653.0
+OID243,CID53,Sheila Smith,South,PID5,Powell Inc,2024-06-11,Technology,Wireless mouse,11,20.0,659.0,7229.0
+OID244,CID67,Patricia Lawson,South,PID2,Baker and Sons,2024-04-15,Office Supplies,Books,7,2.0,10.0,68.0
+OID245,CID100,Lindsey Moyer,West,PID3,Mcconnell LLC,2025-02-23,Office Supplies,Clips,37,2.0,12.0,442.0
+OID246,CID140,Ronald Bautista,North,PID7,Carrillo LLC,2024-09-06,Office Supplies,Pens,35,2.0,8.0,278.0
+OID247,CID37,Stephen Fisher,East,PID4,"Miles, Williams and Webb",2024-11-21,Technology,Printer Catridge,40,20.0,869.0,34740.0
+OID248,CID77,Mr. Jeffery Acosta,East,PID2,Clark-Burgess,2025-09-23,Technology,Wireless Keyboard,13,20.0,1082.0,14046.0
+OID249,CID136,Debra Cook,South,PID5,"Patrick, Bryant and Lee",2025-02-25,Technology,Printer Catridge,3,20.0,1076.0,3208.0
+OID250,CID136,Debra Cook,South,PID3,Mcconnell LLC,2024-02-15,Office Supplies,Pens,43,2.0,11.0,471.0
+OID251,CID55,Sara Gray,Central,PID2,Owen Inc,2025-03-25,Office Supplies,Pins,40,2.0,9.0,358.0
+OID252,CID95,Donald King,East,PID5,Powell Inc,2025-03-03,Technology,Wireless Keyboard,39,20.0,955.0,37225.0
+OID253,CID134,Emily Cuevas,North,PID3,Carrillo LLC,2024-02-16,Office Supplies,Clips,18,2.0,12.0,214.0
+OID254,CID72,Erica Ponce,South,PID5,"Patrick, Bryant and Lee",2024-09-07,Technology,Wireless mouse,20,20.0,510.0,10180.0
+OID255,CID147,Kelly White,South,PID1,"Orozco, Clark and Wood",2025-03-25,Office Supplies,Clips,20,2.0,7.0,138.0
+OID256,CID132,Kathryn Parker,South,PID3,Clark-Burgess,2024-02-09,Technology,Laptop,2,20.0,52522.0,105024.0
+OID257,CID76,Luis Dominguez,Central,PID8,Johnson-Ho,2025-09-19,Technology,Laptop,11,20.0,83653.0,920163.0
+OID258,CID64,Angela Powell,East,PID6,Powell Inc,2024-03-12,Technology,Wireless mouse,25,20.0,553.0,13805.0
+OID259,CID32,Monique Thompson,Central,PID3,Pearson PLC,2024-10-22,Technology,Printer Catridge,26,20.0,1127.0,29282.0
+OID260,CID136,Debra Cook,South,PID4,Baker and Sons,2024-10-19,Office Supplies,Pins,1,2.0,10.0,8.0
+OID261,CID52,Lori Cox,West,PID2,Carrillo LLC,2025-02-17,Office Supplies,Books,20,2.0,11.0,218.0
+OID262,CID20,Michelle Merritt,North,PID5,Dixon Inc,2025-09-28,Office Supplies,Pins,2,2.0,9.0,16.0
+OID263,CID99,Gwendolyn Martinez,Central,PID5,Rogers-Miller,2025-03-10,Office Supplies,Books,46,2.0,6.0,274.0
+OID264,CID46,Leslie Hall,South,PID5,Powell Inc,2025-07-20,Technology,Printer Catridge,29,20.0,754.0,21846.0
+OID265,CID57,Ryan Jones,North,PID1,Pearson PLC,2025-02-06,Technology,Printer,7,20.0,5859.0,40993.0
+OID266,CID69,John Walker,South,PID9,Abbott and Sons,2025-10-02,Office Supplies,Books,15,2.0,9.0,133.0
+OID267,CID82,Emma Jones,North,PID1,Dixon Inc,2024-03-05,Office Supplies,Pens,15,2.0,15.0,223.0
+OID268,CID51,Lori Bautista,North,PID5,Kramer-Logan,2024-01-09,Technology,Printer,22,20.0,8013.0,176266.0
+OID269,CID47,Jasmine Contreras,East,PID5,Powell Inc,2025-07-14,Technology,Wireless Keyboard,34,20.0,763.0,25922.0
+OID270,CID130,Penny Peters,East,PID2,Abbott and Sons,2025-05-18,Office Supplies,Books,22,2.0,15.0,328.0
+OID271,CID128,Andrew Smith,South,PID9,Owen Inc,2025-03-24,Office Supplies,Books,45,2.0,7.0,313.0
+OID272,CID60,Kyle Moreno,South,PID8,Moore Inc,2024-01-19,Technology,Wireless mouse,30,20.0,798.0,23920.0
+OID273,CID146,Shannon Moore,South,PID8,Johnson-Ho,2025-08-26,Technology,Printer Catridge,1,20.0,1147.0,1127.0
+OID274,CID42,Sean Reeves,South,PID6,Hernandez LLC,2025-08-04,Technology,Wireless mouse,4,20.0,628.0,2492.0
+OID275,CID116,Brian Diaz DDS,North,PID4,"Orozco, Clark and Wood",2025-05-12,Office Supplies,Pins,37,2.0,5.0,183.0
+OID276,CID96,Paul Webb,East,PID2,Moore Inc,2025-10-02,Technology,Printer,24,20.0,7437.0,178468.0
+OID277,CID40,Timothy Spencer,East,PID7,Clark-Burgess,2024-01-10,Technology,Printer Catridge,5,20.0,1008.0,5020.0
+OID278,CID91,Kayla Moore,East,PID7,Hernandez LLC,2024-10-09,Technology,Printer Catridge,26,20.0,1160.0,30140.0
+OID279,CID24,Andrew Mccarty,North,PID8,"Miles, Williams and Webb",2024-06-30,Technology,Printer Catridge,49,20.0,1199.0,58731.0
+OID280,CID102,Susan Roberts,Central,PID9,"Miles, Williams and Webb",2024-06-26,Technology,Laptop,31,20.0,40345.0,1250675.0
+OID281,CID97,Christine Hughes,West,PID9,Moore Inc,2024-02-24,Technology,Laptop,22,20.0,52915.0,1164110.0
+OID282,CID120,Julia Wolfe,South,PID6,Hernandez LLC,2025-05-03,Technology,Printer Catridge,35,20.0,992.0,34700.0
+OID283,CID67,Patricia Lawson,South,PID6,Hernandez LLC,2025-09-15,Technology,Wireless mouse,17,20.0,956.0,16232.0
+OID284,CID105,Austin Valdez,East,PID1,Abbott and Sons,2025-02-26,Office Supplies,Clips,18,2.0,9.0,160.0
+OID285,CID84,Molly Murray,North,PID3,Abbott and Sons,2024-08-17,Office Supplies,Clips,7,2.0,6.0,40.0
+OID286,CID20,Michelle Merritt,Central,PID7,"Orozco, Clark and Wood",2025-02-06,Office Supplies,Books,44,2.0,9.0,394.0
+OID287,CID67,Patricia Lawson,South,PID5,Mcconnell LLC,2024-10-15,Office Supplies,Pins,23,2.0,9.0,205.0
+OID288,CID32,Monique Thompson,South,PID9,"Orozco, Clark and Wood",2024-02-25,Office Supplies,Books,2,2.0,7.0,12.0
+OID289,CID118,Maria Graham,North,PID8,Hernandez LLC,2025-10-09,Technology,Wireless Keyboard,47,20.0,547.0,25689.0
+OID290,CID44,Kayla Villa,North,PID5,"Patrick, Bryant and Lee",2025-06-15,Technology,Wireless mouse,17,20.0,828.0,14056.0
+OID291,CID133,Reginald Shelton,North,PID3,Obrien Group,2024-08-21,Technology,Laptop,25,20.0,93181.0,2329505.0
+OID292,CID134,Emily Cuevas,Central,PID3,Obrien Group,2025-08-21,Technology,Wireless mouse,42,20.0,1187.0,49834.0
+OID293,CID80,Alexandra Mason,South,PID5,"Miles, Williams and Webb",2024-12-20,Technology,Wireless Keyboard,34,20.0,684.0,23236.0
+OID294,CID97,Christine Hughes,East,PID1,Baker and Sons,2024-09-11,Office Supplies,Clips,15,2.0,20.0,298.0
+OID295,CID130,Penny Peters,Central,PID7,Pearson PLC,2024-03-14,Technology,Printer,25,20.0,17465.0,436605.0
+OID296,CID42,Sean Reeves,South,PID9,Baker and Sons,2025-11-22,Office Supplies,Pins,7,2.0,8.0,54.0
+OID297,CID35,Anna Potter,East,PID1,"Miles, Williams and Webb",2024-12-17,Technology,Printer Catridge,31,20.0,691.0,21401.0
+OID298,CID62,Matthew Ferguson,Central,PID4,Baker and Sons,2025-10-19,Office Supplies,Pins,9,2.0,4.0,34.0
+OID299,CID73,Richard Bell,South,PID7,Carrillo LLC,2024-01-14,Office Supplies,Clips,16,2.0,11.0,174.0
+OID300,CID70,Nicole Willis,Central,PID4,Hernandez LLC,2025-04-06,Technology,Printer Catridge,32,20.0,750.0,23980.0
+OID301,CID111,Douglas Ruiz,West,PID1,Owen Inc,2025-09-08,Office Supplies,Clips,38,2.0,7.0,264.0
+OID302,CID54,Ronald Schmidt,North,PID7,Rogers-Miller,2024-04-09,Office Supplies,Clips,24,2.0,18.0,430.0
+OID303,CID27,Christina Kim,East,PID5,Mcconnell LLC,2024-02-24,Office Supplies,Pins,28,2.0,14.0,390.0
+OID304,CID22,Jose Murphy,East,PID9,"Patrick, Bryant and Lee",2025-08-12,Technology,Wireless mouse,34,20.0,918.0,31192.0
+OID305,CID40,Timothy Spencer,Central,PID2,"Orozco, Clark and Wood",2025-08-05,Office Supplies,Clips,48,2.0,10.0,478.0
+OID306,CID95,Donald King,West,PID1,"Miles, Williams and Webb",2025-08-12,Technology,Printer,8,20.0,12001.0,95988.0
+OID307,CID74,Megan Robinson,North,PID3,"Patrick, Bryant and Lee",2024-02-23,Technology,Wireless Keyboard,10,20.0,839.0,8370.0
+OID308,CID1,Michael Craig,North,PID2,Pearson PLC,2025-09-21,Technology,Wireless mouse,13,20.0,587.0,7611.0
+OID309,CID1,Michael Craig,South,PID4,Clark-Burgess,2024-03-21,Technology,Laptop,2,20.0,46508.0,92996.0
+OID310,CID43,Bobby Russell,South,PID1,Hernandez LLC,2024-07-01,Technology,Printer,25,20.0,5663.0,141555.0
+OID311,CID46,Leslie Hall,North,PID8,"Miles, Williams and Webb",2025-12-09,Technology,Wireless Keyboard,24,20.0,987.0,23668.0
+OID312,CID57,Ryan Jones,North,PID4,Pearson PLC,2024-07-19,Technology,Printer Catridge,46,20.0,1114.0,51224.0
+OID313,CID107,Jason Thompson,West,PID5,"Miles, Williams and Webb",2025-07-12,Technology,Laptop,20,20.0,81378.0,1627540.0
+OID314,CID53,Sheila Smith,East,PID1,Baker and Sons,2024-09-26,Office Supplies,Pens,42,2.0,11.0,460.0
+OID315,CID57,Ryan Jones,Central,PID3,Clark-Burgess,2025-03-03,Technology,Printer,35,20.0,19673.0,688535.0
+OID316,CID22,Jose Murphy,South,PID2,Hernandez LLC,2024-08-24,Technology,Laptop,40,20.0,20402.0,816060.0
+OID317,CID38,Lisa Brooks,East,PID6,"Patrick, Bryant and Lee",2025-12-05,Technology,Wireless Keyboard,6,20.0,595.0,3550.0
+OID318,CID118,Maria Graham,North,PID2,Abbott and Sons,2024-07-28,Office Supplies,Pins,36,2.0,12.0,430.0
+OID319,CID148,Laura Cross,Central,PID8,"Patrick, Bryant and Lee",2025-01-24,Technology,Wireless Keyboard,12,20.0,666.0,7972.0
+OID320,CID1,Michael Craig,East,PID8,Kramer-Logan,2025-01-22,Technology,Laptop,1,20.0,84049.0,84029.0
+OID321,CID52,Lori Cox,West,PID1,Pearson PLC,2024-04-29,Technology,Printer,13,20.0,11870.0,154290.0
+OID322,CID112,Eddie Carson,North,PID7,Rogers-Miller,2025-01-27,Office Supplies,Pins,9,2.0,10.0,88.0
+OID323,CID97,Christine Hughes,East,PID3,Mcconnell LLC,2024-01-09,Office Supplies,Pens,4,2.0,7.0,26.0
+OID324,CID115,Nicole Mendez,South,PID2,Abbott and Sons,2024-02-21,Office Supplies,Books,3,2.0,9.0,25.0
+OID325,CID75,Amy Martinez,West,PID3,Abbott and Sons,2024-07-09,Office Supplies,Pins,13,2.0,10.0,128.0
+OID326,CID41,Kathryn Pierce,South,PID6,Dixon Inc,2025-05-20,Office Supplies,Clips,9,2.0,6.0,52.0
+OID327,CID105,Austin Valdez,West,PID4,"Patrick, Bryant and Lee",2024-01-01,Technology,Printer Catridge,20,20.0,1106.0,22100.0
+OID328,CID68,David Willis DDS,South,PID5,Clark-Burgess,2025-08-11,Technology,Printer Catridge,31,20.0,1129.0,34979.0
+OID329,CID132,Kathryn Parker,West,PID2,Carrillo LLC,2025-03-09,Office Supplies,Clips,46,2.0,14.0,642.0
+OID330,CID85,Devon Vargas,West,PID1,Dixon Inc,2025-07-04,Office Supplies,Books,49,2.0,19.0,929.0
+OID331,CID93,Dominic Tucker,North,PID9,Baker and Sons,2024-10-31,Office Supplies,Pens,35,2.0,8.0,278.0
+OID332,CID125,Leslie Newman,East,PID6,Hernandez LLC,2024-06-12,Technology,Laptop,39,20.0,65479.0,2553661.0
+OID333,CID50,Amber Nash,West,PID8,Obrien Group,2025-02-05,Technology,Wireless mouse,40,20.0,895.0,35780.0
+OID334,CID88,Madison Wilson,Central,PID2,Moore Inc,2024-02-01,Technology,Wireless Keyboard,2,20.0,1071.0,2122.0
+OID335,CID50,Amber Nash,West,PID8,Moore Inc,2025-04-30,Technology,Printer Catridge,6,20.0,943.0,5638.0
+OID336,CID36,Mr. Robert Mann,West,PID2,Johnson-Ho,2024-04-22,Technology,Wireless mouse,38,20.0,508.0,19284.0
+OID337,CID21,Joseph Vaughn,East,PID9,Abbott and Sons,2024-12-03,Office Supplies,Books,35,2.0,6.0,208.0
+OID338,CID95,Donald King,North,PID5,Powell Inc,2024-12-18,Technology,Laptop,11,20.0,72008.0,792068.0
+OID339,CID86,Ronald Cain,West,PID2,"Orozco, Clark and Wood",2025-08-27,Office Supplies,Pens,25,2.0,7.0,173.0
+OID340,CID6,Connie Woodward DDS,West,PID5,"Orozco, Clark and Wood",2025-07-29,Office Supplies,Books,24,2.0,9.0,214.0
+OID341,CID104,Juan Jenkins,Central,PID2,"Orozco, Clark and Wood",2024-05-22,Office Supplies,Clips,47,2.0,8.0,374.0
+OID342,CID82,Emma Jones,North,PID6,Carrillo LLC,2024-12-22,Office Supplies,Pens,24,2.0,7.0,166.0
+OID343,CID6,Connie Woodward DDS,West,PID1,Baker and Sons,2024-05-17,Office Supplies,Clips,40,2.0,8.0,318.0
+OID344,CID133,Reginald Shelton,North,PID1,Powell Inc,2025-08-25,Technology,Wireless Keyboard,26,20.0,669.0,17374.0
+OID345,CID55,Sara Gray,South,PID6,Owen Inc,2025-05-12,Office Supplies,Books,30,2.0,6.0,178.0
+OID346,CID78,Robert Hogan,South,PID6,"Orozco, Clark and Wood",2025-03-12,Office Supplies,Pens,43,2.0,5.0,213.0
+OID347,CID27,Christina Kim,East,PID2,Johnson-Ho,2024-08-07,Technology,Wireless Keyboard,14,20.0,506.0,7064.0
+OID348,CID145,Elizabeth Cox,West,PID7,"Patrick, Bryant and Lee",2024-02-29,Technology,Wireless mouse,47,20.0,1158.0,54406.0
+OID349,CID69,John Walker,Central,PID5,Obrien Group,2025-06-17,Technology,Wireless mouse,29,20.0,1071.0,31039.0
+OID350,CID60,Kyle Moreno,East,PID9,Kramer-Logan,2024-07-13,Technology,Wireless Keyboard,16,20.0,812.0,12972.0
+OID351,CID26,Shannon Terrell,East,PID4,Rogers-Miller,2024-08-29,Office Supplies,Pins,30,2.0,9.0,268.0
+OID352,CID110,Sylvia Hernandez,Central,PID4,Hernandez LLC,2024-03-23,Technology,Wireless Keyboard,40,20.0,811.0,32420.0
+OID353,CID100,Lindsey Moyer,South,PID2,Baker and Sons,2024-06-17,Office Supplies,Pens,44,2.0,10.0,438.0
+OID354,CID36,Mr. Robert Mann,Central,PID4,Moore Inc,2025-08-12,Technology,Printer Catridge,28,20.0,1076.0,30108.0
+OID355,CID78,Robert Hogan,Central,PID3,Kramer-Logan,2025-08-23,Technology,Printer Catridge,20,20.0,848.0,16940.0
+OID356,CID43,Bobby Russell,South,PID7,Pearson PLC,2024-08-10,Technology,Wireless Keyboard,36,20.0,602.0,21652.0
+OID357,CID122,Ashley Murphy,Central,PID7,Carrillo LLC,2024-07-26,Office Supplies,Clips,39,2.0,3.0,115.0
+OID358,CID148,Laura Cross,South,PID4,Hernandez LLC,2025-10-07,Technology,Printer Catridge,38,20.0,989.0,37562.0
+OID359,CID85,Devon Vargas,East,PID3,"Miles, Williams and Webb",2025-05-19,Technology,Laptop,30,20.0,48803.0,1464070.0
+OID360,CID61,Timothy Willis,Central,PID9,Hernandez LLC,2024-02-12,Technology,Printer Catridge,30,20.0,587.0,17590.0
+OID361,CID121,David Ibarra,North,PID9,"Patrick, Bryant and Lee",2024-08-28,Technology,Laptop,30,20.0,32568.0,977020.0
+OID362,CID69,John Walker,North,PID2,Abbott and Sons,2024-11-10,Office Supplies,Clips,22,2.0,10.0,218.0
+OID363,CID22,Jose Murphy,West,PID4,Owen Inc,2024-05-16,Office Supplies,Pins,44,2.0,3.0,130.0
+OID364,CID58,Robert Moreno II,Central,PID6,Johnson-Ho,2024-01-24,Technology,Wireless mouse,25,20.0,556.0,13880.0
+OID365,CID57,Ryan Jones,West,PID7,Clark-Burgess,2025-01-15,Technology,Wireless mouse,14,20.0,553.0,7722.0
+OID366,CID15,Kyle Taylor,East,PID1,Pearson PLC,2024-06-01,Technology,Wireless mouse,39,20.0,610.0,23770.0
+OID367,CID77,Mr. Jeffery Acosta,West,PID5,Rogers-Miller,2025-06-06,Office Supplies,Books,13,2.0,4.0,50.0
+OID368,CID69,John Walker,Central,PID6,Baker and Sons,2024-09-10,Office Supplies,Pins,43,2.0,12.0,514.0
+OID369,CID137,Melanie Duncan,North,PID6,"Patrick, Bryant and Lee",2024-06-29,Technology,Printer,19,20.0,5748.0,109192.0
+OID370,CID68,David Willis DDS,West,PID8,Abbott and Sons,2025-09-30,Office Supplies,Pens,9,2.0,7.0,61.0
+OID371,CID35,Anna Potter,South,PID2,Owen Inc,2024-04-21,Office Supplies,Pens,18,2.0,16.0,286.0
+OID372,CID42,Sean Reeves,North,PID7,"Patrick, Bryant and Lee",2025-11-13,Technology,Wireless mouse,41,20.0,559.0,22899.0
+OID373,CID6,Connie Woodward DDS,Central,PID9,Moore Inc,2024-07-13,Technology,Wireless Keyboard,18,20.0,680.0,12220.0
+OID374,CID81,Sean Hughes,North,PID7,Powell Inc,2025-01-23,Technology,Wireless mouse,40,20.0,641.0,25620.0
+OID375,CID28,Ashley Gibson,South,PID7,Kramer-Logan,2024-02-22,Technology,Wireless mouse,9,20.0,547.0,4903.0
+OID376,CID98,Maureen Lopez,North,PID1,Pearson PLC,2024-08-09,Technology,Printer,3,20.0,11692.0,35056.0
+OID377,CID58,Robert Moreno II,East,PID2,"Orozco, Clark and Wood",2025-04-13,Office Supplies,Pens,23,2.0,8.0,182.0
+OID378,CID25,Lawrence Gonzalez,South,PID5,Obrien Group,2024-01-30,Technology,Printer Catridge,46,20.0,549.0,25234.0
+OID379,CID99,Gwendolyn Martinez,West,PID9,Rogers-Miller,2024-11-19,Office Supplies,Pins,22,2.0,9.0,196.0
+OID380,CID32,Monique Thompson,East,PID7,Moore Inc,2025-08-01,Technology,Wireless mouse,25,20.0,841.0,21005.0
+OID381,CID80,Alexandra Mason,South,PID4,"Miles, Williams and Webb",2025-04-25,Technology,Laptop,29,20.0,23302.0,675738.0
+OID382,CID91,Kayla Moore,East,PID1,Moore Inc,2025-08-15,Technology,Printer Catridge,34,20.0,1051.0,35714.0
+OID383,CID41,Kathryn Pierce,East,PID8,Rogers-Miller,2025-07-30,Office Supplies,Pins,4,2.0,9.0,34.0
+OID384,CID64,Angela Powell,West,PID6,Baker and Sons,2024-07-03,Office Supplies,Pins,36,2.0,9.0,322.0
+OID385,CID131,Marie Lamb,North,PID7,Baker and Sons,2024-04-22,Office Supplies,Clips,7,2.0,9.0,61.0
+OID386,CID122,Ashley Murphy,East,PID6,Kramer-Logan,2025-03-17,Technology,Printer,17,20.0,16822.0,285954.0
+OID387,CID65,Gregory Ramos,East,PID7,"Miles, Williams and Webb",2025-09-14,Technology,Printer Catridge,39,20.0,602.0,23458.0
+OID388,CID26,Shannon Terrell,Central,PID3,Hernandez LLC,2025-03-02,Technology,Wireless Keyboard,12,20.0,753.0,9016.0
+OID389,CID142,Brian Martinez,South,PID2,Clark-Burgess,2025-01-23,Technology,Wireless mouse,14,20.0,1091.0,15254.0
+OID390,CID31,Don Cummings,North,PID5,Dixon Inc,2025-10-23,Office Supplies,Books,16,2.0,9.0,142.0
+OID391,CID37,Stephen Fisher,North,PID3,"Orozco, Clark and Wood",2024-07-23,Office Supplies,Books,25,2.0,6.0,148.0
+OID392,CID79,Margaret Tucker,East,PID5,Abbott and Sons,2024-11-28,Office Supplies,Pins,2,0.0,5.0,10.0
+OID393,CID33,Donna Gray,East,PID4,"Orozco, Clark and Wood",2025-09-06,Office Supplies,Pins,11,2.0,3.0,31.0
+OID394,CID117,Kevin Fuller,East,PID7,Baker and Sons,2025-09-15,Office Supplies,Pens,14,2.0,11.0,152.0
+OID395,CID81,Sean Hughes,West,PID3,Baker and Sons,2024-11-28,Office Supplies,Clips,9,2.0,12.0,106.0
+OID396,CID33,Donna Gray,East,PID8,Kramer-Logan,2025-08-04,Technology,Printer Catridge,35,20.0,1199.0,41945.0
+OID397,CID5,Martha Harding,East,PID1,Clark-Burgess,2024-12-12,Technology,Printer,13,20.0,14028.0,182344.0
+OID398,CID80,Alexandra Mason,North,PID2,"Patrick, Bryant and Lee",2025-04-05,Technology,Laptop,17,20.0,50912.0,865484.0
+OID399,CID142,Brian Martinez,Central,PID1,Carrillo LLC,2025-09-18,Office Supplies,Books,21,2.0,6.0,124.0
+OID400,CID88,Madison Wilson,Central,PID7,Dixon Inc,2024-08-04,Office Supplies,Pins,35,2.0,9.0,313.0
+OID401,CID65,Gregory Ramos,South,PID4,Clark-Burgess,2025-02-25,Technology,Wireless mouse,16,20.0,500.0,7980.0
+OID402,CID70,Nicole Willis,Central,PID2,Baker and Sons,2024-10-04,Office Supplies,Pens,18,2.0,9.0,160.0
+OID403,CID135,Jessica Dickerson,East,PID3,"Miles, Williams and Webb",2025-05-09,Technology,Printer Catridge,43,20.0,1030.0,44270.0
+OID404,CID80,Alexandra Mason,West,PID6,Powell Inc,2025-04-21,Technology,Wireless mouse,41,20.0,815.0,33395.0
+OID405,CID46,Leslie Hall,North,PID1,Pearson PLC,2024-10-29,Technology,Wireless mouse,34,20.0,1071.0,36394.0
+OID406,CID43,Bobby Russell,South,PID7,Powell Inc,2024-01-28,Technology,Wireless mouse,25,20.0,625.0,15605.0
+OID407,CID33,Donna Gray,South,PID3,Moore Inc,2024-06-22,Technology,Wireless Keyboard,44,20.0,776.0,34124.0
+OID408,CID91,Kayla Moore,East,PID6,Dixon Inc,2024-11-09,Office Supplies,Pens,36,2.0,7.0,250.0
+OID409,CID82,Emma Jones,Central,PID6,Carrillo LLC,2024-09-08,Office Supplies,Pins,3,2.0,11.0,31.0
+OID410,CID69,John Walker,East,PID1,"Orozco, Clark and Wood",2025-06-24,Office Supplies,Pins,15,2.0,10.0,148.0
+OID411,CID121,David Ibarra,North,PID1,Mcconnell LLC,2025-05-06,Office Supplies,Pens,36,2.0,11.0,394.0
+OID412,CID143,Stephanie Bennett,Central,PID4,Mcconnell LLC,2025-05-20,Office Supplies,Clips,39,2.0,11.0,427.0
+OID413,CID36,Mr. Robert Mann,West,PID1,Abbott and Sons,2025-06-26,Office Supplies,Pins,3,2.0,15.0,43.0
+OID414,CID33,Donna Gray,South,PID7,Pearson PLC,2025-09-03,Technology,Laptop,24,20.0,73907.0,1773748.0
+OID415,CID100,Lindsey Moyer,Central,PID2,Carrillo LLC,2025-09-20,Office Supplies,Clips,35,2.0,10.0,348.0
+OID416,CID124,Scott Wright,West,PID2,Abbott and Sons,2025-04-10,Office Supplies,Pins,38,2.0,11.0,416.0
+OID417,CID37,Stephen Fisher,North,PID2,Baker and Sons,2025-02-03,Office Supplies,Clips,32,2.0,10.0,318.0
+OID418,CID90,Nicole Cummings,Central,PID7,Johnson-Ho,2025-02-22,Technology,Printer,27,20.0,9462.0,255454.0
+OID419,CID88,Madison Wilson,North,PID6,Dixon Inc,2024-08-03,Office Supplies,Pens,15,2.0,15.0,223.0
+OID420,CID13,Derrick Armstrong,North,PID4,Carrillo LLC,2025-02-22,Office Supplies,Clips,19,2.0,8.0,150.0
+OID421,CID11,Matthew Villarreal,South,PID6,Clark-Burgess,2025-07-01,Technology,Laptop,4,20.0,40355.0,161400.0
+OID422,CID104,Juan Jenkins,West,PID6,Moore Inc,2025-09-09,Technology,Wireless Keyboard,6,20.0,1115.0,6670.0
+OID423,CID24,Andrew Mccarty,Central,PID5,Rogers-Miller,2024-05-18,Office Supplies,Pins,2,2.0,14.0,26.0
+OID424,CID1,Michael Craig,South,PID9,Powell Inc,2025-01-25,Technology,Wireless Keyboard,46,20.0,522.0,23992.0
+OID425,CID70,Nicole Willis,North,PID9,Owen Inc,2024-11-28,Office Supplies,Pens,42,2.0,10.0,418.0
+OID426,CID139,Tracie Thompson,North,PID8,Kramer-Logan,2025-05-18,Technology,Printer,22,20.0,11237.0,247194.0
+OID427,CID66,Katie Black,North,PID9,"Orozco, Clark and Wood",2024-03-11,Office Supplies,Clips,15,2.0,8.0,118.0
+OID428,CID29,Rachel Ramos,West,PID1,Baker and Sons,2024-02-09,Office Supplies,Books,29,2.0,6.0,172.0
+OID429,CID147,Kelly White,Central,PID8,Baker and Sons,2025-02-14,Office Supplies,Books,16,2.0,6.0,94.0
+OID430,CID117,Kevin Fuller,West,PID3,"Patrick, Bryant and Lee",2024-05-16,Technology,Wireless mouse,12,20.0,622.0,7444.0
+OID431,CID86,Ronald Cain,North,PID8,Pearson PLC,2025-09-07,Technology,Printer,24,20.0,12300.0,295180.0
+OID432,CID8,Emily Bowman,North,PID4,Clark-Burgess,2025-06-18,Technology,Printer Catridge,48,20.0,1060.0,50860.0
+OID433,CID5,Martha Harding,South,PID7,Mcconnell LLC,2024-05-26,Office Supplies,Books,18,2.0,10.0,178.0
+OID434,CID49,Larry Jones,West,PID9,Hernandez LLC,2024-01-15,Technology,Wireless mouse,35,20.0,1090.0,38130.0
+OID435,CID121,David Ibarra,East,PID5,Abbott and Sons,2025-01-11,Office Supplies,Books,38,2.0,8.0,302.0
+OID436,CID21,Joseph Vaughn,South,PID1,Pearson PLC,2025-05-23,Technology,Laptop,4,20.0,59807.0,239208.0
+OID437,CID93,Dominic Tucker,North,PID5,Rogers-Miller,2025-04-10,Office Supplies,Books,42,2.0,7.0,292.0
+OID438,CID46,Leslie Hall,South,PID3,Abbott and Sons,2024-10-14,Office Supplies,Clips,24,2.0,5.0,118.0
+OID439,CID124,Scott Wright,South,PID9,Kramer-Logan,2024-10-24,Technology,Wireless mouse,28,20.0,1008.0,28204.0
+OID440,CID80,Alexandra Mason,North,PID6,Pearson PLC,2024-12-31,Technology,Printer Catridge,11,20.0,955.0,10485.0
+OID441,CID14,Ryan Williams,North,PID7,Powell Inc,2024-01-02,Technology,Laptop,46,20.0,36202.0,1665272.0
+OID442,CID116,Brian Diaz DDS,East,PID4,Pearson PLC,2024-12-14,Technology,Laptop,40,20.0,28265.0,1130580.0
+OID443,CID13,Derrick Armstrong,West,PID3,Kramer-Logan,2025-08-24,Technology,Wireless mouse,49,20.0,905.0,44325.0
+OID444,CID113,Michael York,Central,PID6,"Patrick, Bryant and Lee",2024-05-05,Technology,Printer Catridge,49,20.0,673.0,32957.0
+OID445,CID104,Juan Jenkins,Central,PID9,Obrien Group,2025-02-20,Technology,Printer,11,20.0,10137.0,111487.0
+OID446,CID39,Karen Rich,East,PID9,Baker and Sons,2025-01-06,Office Supplies,Pins,24,2.0,12.0,286.0
+OID447,CID21,Joseph Vaughn,South,PID3,Clark-Burgess,2024-10-30,Technology,Laptop,38,20.0,36064.0,1370412.0
+OID448,CID145,Elizabeth Cox,North,PID4,Baker and Sons,2025-06-02,Office Supplies,Pens,20,2.0,12.0,238.0
+OID449,CID44,Kayla Villa,South,PID5,"Miles, Williams and Webb",2025-04-22,Technology,Wireless Keyboard,27,20.0,633.0,17071.0
+OID450,CID31,Don Cummings,South,PID9,Moore Inc,2025-10-05,Technology,Wireless Keyboard,22,20.0,1036.0,22772.0
+OID451,CID47,Jasmine Contreras,West,PID5,Clark-Burgess,2024-03-02,Technology,Printer Catridge,47,20.0,1063.0,49941.0
+OID452,CID110,Sylvia Hernandez,South,PID1,Johnson-Ho,2025-10-10,Technology,Laptop,34,20.0,56300.0,1914180.0
+OID453,CID65,Gregory Ramos,North,PID8,Mcconnell LLC,2024-09-25,Office Supplies,Books,2,2.0,8.0,14.0
+OID454,CID144,Michael Foley,South,PID4,Hernandez LLC,2025-09-28,Technology,Printer,30,20.0,17735.0,532030.0
+OID455,CID73,Richard Bell,West,PID1,Johnson-Ho,2025-01-14,Technology,Wireless mouse,35,20.0,648.0,22660.0
+OID456,CID115,Nicole Mendez,South,PID8,Dixon Inc,2025-05-28,Office Supplies,Pens,6,2.0,11.0,64.0
+OID457,CID54,Ronald Schmidt,North,PID1,"Miles, Williams and Webb",2024-05-27,Technology,Wireless mouse,25,20.0,912.0,22780.0
+OID458,CID86,Ronald Cain,North,PID5,Baker and Sons,2025-10-10,Office Supplies,Pins,3,2.0,10.0,28.0
+OID459,CID24,Andrew Mccarty,North,PID2,Rogers-Miller,2025-01-05,Office Supplies,Clips,21,2.0,13.0,271.0
+OID460,CID99,Gwendolyn Martinez,Central,PID7,Owen Inc,2025-04-08,Office Supplies,Clips,45,2.0,15.0,673.0
+OID461,CID143,Stephanie Bennett,East,PID5,Obrien Group,2025-09-23,Technology,Printer,30,20.0,14537.0,436090.0
+OID462,CID131,Marie Lamb,West,PID7,Mcconnell LLC,2025-08-09,Office Supplies,Pins,47,2.0,10.0,468.0
+OID463,CID47,Jasmine Contreras,West,PID5,Pearson PLC,2025-03-05,Technology,Wireless mouse,25,20.0,856.0,21380.0
+OID464,CID63,Donald Bailey,South,PID9,Abbott and Sons,2024-04-28,Office Supplies,Pens,6,2.0,15.0,88.0
+OID465,CID56,Andrea Mcpherson,West,PID1,Rogers-Miller,2024-09-10,Office Supplies,Clips,48,2.0,7.0,334.0
+OID466,CID97,Christine Hughes,West,PID9,Mcconnell LLC,2025-12-01,Office Supplies,Clips,20,2.0,8.0,158.0
+OID467,CID72,Erica Ponce,Central,PID2,Obrien Group,2024-08-26,Technology,Printer,13,20.0,15838.0,205874.0
+OID468,CID70,Nicole Willis,West,PID9,Powell Inc,2024-08-31,Technology,Laptop,18,20.0,59495.0,1070890.0
+OID469,CID98,Maureen Lopez,North,PID1,Kramer-Logan,2024-11-01,Technology,Printer Catridge,44,20.0,716.0,31484.0
+OID470,CID116,Brian Diaz DDS,South,PID3,Clark-Burgess,2025-01-21,Technology,Printer Catridge,31,20.0,1089.0,33739.0
+OID471,CID44,Kayla Villa,West,PID5,Abbott and Sons,2024-04-24,Office Supplies,Pens,22,2.0,8.0,174.0
+OID472,CID138,Christine Salazar,South,PID5,Powell Inc,2024-03-02,Technology,Laptop,45,20.0,36357.0,1636045.0
+OID473,CID39,Karen Rich,East,PID8,Pearson PLC,2024-05-07,Technology,Laptop,29,20.0,42987.0,1246603.0
+OID474,CID52,Lori Cox,East,PID5,Moore Inc,2024-11-24,Technology,Laptop,6,20.0,83689.0,502114.0
+OID475,CID36,Mr. Robert Mann,North,PID7,Kramer-Logan,2025-01-06,Technology,Printer Catridge,4,20.0,631.0,2504.0
+OID476,CID138,Christine Salazar,Central,PID6,Hernandez LLC,2025-10-28,Technology,Laptop,26,20.0,97980.0,2547460.0
+OID477,CID143,Stephanie Bennett,East,PID2,Carrillo LLC,2025-06-12,Office Supplies,Pens,4,2.0,11.0,42.0
+OID478,CID132,Kathryn Parker,East,PID5,Clark-Burgess,2024-11-25,Technology,Printer Catridge,38,20.0,631.0,23958.0
+OID479,CID77,Mr. Jeffery Acosta,Central,PID7,Clark-Burgess,2024-11-03,Technology,Wireless Keyboard,25,20.0,597.0,14905.0
+OID480,CID64,Angela Powell,South,PID2,Carrillo LLC,2024-12-19,Office Supplies,Pens,5,2.0,6.0,28.0
+OID481,CID48,Jenna Hicks,Central,PID9,Powell Inc,2025-10-08,Technology,Laptop,17,20.0,52911.0,899467.0
+OID482,CID122,Ashley Murphy,North,PID3,"Patrick, Bryant and Lee",2025-11-18,Technology,Wireless Keyboard,43,20.0,592.0,25436.0
+OID483,CID140,Ronald Bautista,South,PID3,Rogers-Miller,2025-05-14,Office Supplies,Pins,40,2.0,10.0,398.0
+OID484,CID88,Madison Wilson,South,PID9,Mcconnell LLC,2024-01-08,Office Supplies,Pins,47,2.0,9.0,421.0
+OID485,CID14,Ryan Williams,North,PID7,Moore Inc,2024-10-13,Technology,Wireless mouse,18,20.0,818.0,14704.0
+OID486,CID41,Kathryn Pierce,East,PID2,"Miles, Williams and Webb",2024-05-01,Technology,Wireless Keyboard,46,20.0,504.0,23164.0
+OID487,CID66,Katie Black,East,PID4,Obrien Group,2024-04-09,Technology,Wireless Keyboard,23,20.0,730.0,16770.0
+OID488,CID91,Kayla Moore,West,PID9,Obrien Group,2024-08-19,Technology,Printer,4,20.0,15644.0,62556.0
+OID489,CID132,Kathryn Parker,West,PID7,Dixon Inc,2025-07-25,Office Supplies,Clips,48,2.0,12.0,574.0
+OID490,CID54,Ronald Schmidt,Central,PID4,Baker and Sons,2024-05-24,Office Supplies,Pens,21,2.0,11.0,229.0
+OID491,CID68,David Willis DDS,North,PID7,Owen Inc,2025-04-17,Office Supplies,Books,43,2.0,8.0,342.0
+OID492,CID50,Amber Nash,South,PID9,"Patrick, Bryant and Lee",2024-12-10,Technology,Wireless Keyboard,5,20.0,1002.0,4990.0
+OID493,CID138,Christine Salazar,North,PID6,Powell Inc,2025-04-05,Technology,Wireless mouse,26,20.0,767.0,19922.0
+OID494,CID96,Paul Webb,South,PID4,Johnson-Ho,2024-05-18,Technology,Printer Catridge,43,20.0,547.0,23501.0
+OID495,CID140,Ronald Bautista,East,PID6,Kramer-Logan,2025-09-13,Technology,Printer,7,20.0,7614.0,53278.0
+OID496,CID4,Brittany Evans MD,South,PID6,Mcconnell LLC,2024-12-09,Office Supplies,Clips,27,2.0,13.0,349.0
+OID497,CID45,Tyler Ross,East,PID9,Johnson-Ho,2024-08-05,Technology,Printer Catridge,39,20.0,1166.0,45454.0
+OID498,CID70,Nicole Willis,East,PID9,Owen Inc,2024-10-20,Office Supplies,Pens,16,2.0,9.0,142.0
+OID499,CID31,Don Cummings,East,PID8,Mcconnell LLC,2024-06-25,Office Supplies,Pins,30,2.0,13.0,388.0
+,CID82,Emma Jones,North,PID3,Owen Inc,2024-08-20,Office Supplies,Clips,33,2.0,6.0,196.0
