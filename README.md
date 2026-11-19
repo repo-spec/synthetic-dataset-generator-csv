@@ -40,6 +40,7 @@ and more....
 
 ## 📁 Newly added schemas
 | Dataset Category | Output Format | Common Use Cases |
+| :--- | :--- | :--- |
 | **Bank loan** | CSV / Tabular | Finance analytics, PowerBI / Tableau dashboards , classification models, SQL query testing, clustering |
 | **Hospital Administration** | CSV / Tabular | Health care analytics, PowerBI / Tableau dashboards , classification models |
 
