@@ -62,7 +62,7 @@ and more....
 
 ## 🚀 How to Use
 
-1. Visit **[https://info-gen.in](https://info-gen.in)** in your web browser.
+1. Visit **[https://info-gen.in](https://info-gen.in/?utm_source=github&utm_medium=readme)** in your web browser.
 2. Select your desired dataset schema (e.g., *Sales Data* or *Order Logistics Data*).
 3. Configure your required parameters or column names or select all for all columns.
 4. Click **Submit ** and click 'Download .csv' to download your generated `.csv` file.
