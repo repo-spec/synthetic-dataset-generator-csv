@@ -1,12 +1,15 @@
-# 📊 Synthetic Dataset Generator (CSV Export)
-# info-gen
+# info-gen - 📊 Synthetic Dataset Generator (CSV Export)
+[![Website](https://img.shields.io/badge/Live_App-info--gen.in-2ea44f?style=for-the-badge)](https://info-gen.in/?utm_source=github&utm_medium=readme)
+[![Processing](https://img.shields.io/badge/Processing-100%25_Client--Side-blue?style=for-the-badge)](https://info-gen.in/About?utm_source=github&utm_medium=readme)
+[![Format](https://img.shields.io/badge/Export-CSV-orange?style=for-the-badge)](https://info-gen.in/?utm_source=github&utm_medium=readme)
+
 About info-gen.in
 # 📊 Info-Gen Datasets — Synthetic Data Generator for ML & Testing, Free CSV Data for Data Analytics, ML & Testing
 [![Live Web Tool](https://img.shields.io/badge/Live_Tool-info--gen.in-blue?style=for-the-badge&logo=googlechrome)](https://info-gen.in)
 🚀 **Live Tool:** [https://info-gen.in](https://info-gen.in/?utm_source=github&utm_medium=readme&utm_campaign=showcase_repo)
 > A fast, lightweight web application designed to generate customizable synthetic datasets (Sales, Order Logistics, E-commerce) in CSV format for software testing, database benchmarking, and data science projects.
 
-🔗 **Access the Live Tool:** [https://info-gen.in](https://info-gen.in)
+🔗 **Access the Live Tool:** [https://info-gen.in](https://info-gen.in)(https://info-gen.in/?utm_source=github&utm_medium=readme)
 
 ---
 
@@ -16,6 +19,18 @@ About info-gen.in
 - **Instant Export:** Export tabular outputs directly to clean, formatted `.csv` files.
 - **Privacy-Safe:** 100% synthetic data—no real-world personal identifiable information (PII) involved.
 - **No Signup Required:** Free to use directly in your browser without account creation or API keys.
+
+---
+
+---
+
+## 🔗 Direct Links to Live Dataset Generators
+
+Use the links below to jump directly to the live browser generators on **info-gen.in**:
+
+* **[Core Datasets (Homepage)](https://info-gen.in/?utm_source=github&utm_medium=readme)** — Healthcare, Retail Sales, Employee Attrition, and Mail/Spam classification data.
+* **[Business & Finance Datasets](https://info-gen.in/NextPage?utm_source=github&utm_medium=readme)** — Customer Churn, Financial Transactions, Semiconductor Sales, and Supply Chain Logistics.
+* **[Operations & Marketing Datasets](https://info-gen.in/ThirdPage?utm_source=github&utm_medium=readme)** — Warehouse Management, Inventory Forecasting, and Green Marketing analytics.
 
 ---
 
